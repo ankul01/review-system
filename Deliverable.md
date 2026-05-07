@@ -1,7 +1,6 @@
 # Case Study: Re-architecting the 3rd Party Product Review System
 
 **Author**: Ankul Choudhary
-**Audience**: Staff Engineer (technical sections) + Director (planning, execution, success sections)
 **Stack proposed**: Java 21 + Spring Boot 3.x, Postgres, Redis, Kafka, OpenSearch, Kubernetes
 
 ---
